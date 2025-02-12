@@ -35,5 +35,6 @@ public class ReadInputCSV {
     double totalTimeTaken = (System.nanoTime()-startTime)/1000000000;
     System.out.printf("%d records read in %.2f seconds%n", totalNumberOfRecords, totalTimeTaken);
     return coordinates;
+    
   }
 }
