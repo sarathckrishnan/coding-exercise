@@ -11,6 +11,10 @@ The solution has logic spread across three files.
 Notes :
 1) Open CSV is used for csv processing. 
 
+How to run the solution?
+1) Once cloned, do a mvn clean install for the dependencies 
+2) Run ASCIIMapGenerator.java for the output
+
 Sample Output file : 
 
                                                                                ###                                      
